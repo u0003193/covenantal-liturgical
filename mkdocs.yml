@@ -1,0 +1,68 @@
+site_name: Covenantal-Liturgical Christian Life
+
+theme:
+  name: material 
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+
+nav:
+  - Home: index.md
+
+  - Introduction: chapter-00-introduction-draft.md
+
+  - Prologue — Five Lenses for Covenantal-Liturgical Living:
+      - "Prologue Frame: The Throne–Ladder Mystery — Heaven–Earth Contact and Our Entry into the Heavenly": chapter-00-prologue-frame.md
+      - "Chapter 1: Christ the Hermeneutical Key": chapter-01-draft.md
+      - "Chapter 2: The Spirit as Formative Power (God‑Active)": chapter-02-draft.md
+      - "Chapter 3: Anthropology & the Nous": chapter-03-draft.md
+      - "Chapter 4: Telos: Covenantal Love": chapter-04-draft.md
+
+  - Part I — Foundational Realities of Covenantal-Liturgical Life:
+      - "Chapter 5: God Speaks, We Hear, We Obey": chapter-05-draft.md
+      - "Chapter 6: Covenant · Presence · Liturgy as One Fabric": chapter-06-draft.md
+      - "Chapter 7: Sacred Time & Anamnesis": chapter-07-draft.md
+      - "Chapter 8: The Ordo: Word · Table · Prayer": chapter-08-draft.md
+
+  - "Part II — Ark: God Speaks Under Mercy (Exodus 19-Leviticus 9)":
+      - "Chapter 9: Sinai: A People Formed by the Voice": chapter-09-draft.md
+      - "Chapter 10: Ten Words Beneath the Mercy Seat": chapter-10-draft.md
+      - "Chapter 11: “There I Will Meet You and Speak” (Ex 25:17–22; Num 7:89)": chapter-11-draft.md
+      - "Chapter 12: Liturgical Grammar: Lamp · Table · Incense · Altar · Water (Lev 8–9)": chapter-12-draft.md
+
+  - "Part III — The Covenant–Temple Plot: Eden → Zion → Exile → Promise":
+      - "Chapter 13: Eden as Proto‑Temple; Exile and Promise": chapter-13-draft.md
+      - "Chapter 14: Zion & the Ark: Enthroned Between the Cherubim (Ps 99:1)": chapter-14-draft.md
+      - "Chapter 15: Departure, Ruin, Prophetic Hope (Ezek 10–11; Jer 3:16–17; Ezek 36:24–28)": chapter-15-draft.md
+
+  - "Part IV — The Mercy Seat in Person: Christ as Fulfillment":
+      - "Chapter 16: The Word Tabernacled (John 1:14; 2:19–21)": chapter-16-draft.md
+      - "Chapter 17: “Do This in Anamnesis of Me” (Luke 22:19–20; 1 Cor 11:23–26)": chapter-17-draft.md
+      - "Chapter 18: Veil Torn; Access for All (Heb 10:19–22)": chapter-18-draft.md
+
+  - Part V — Interlude — From Theology to Participation:
+      - "Chapter 19: INTERLUDE: Abiding in the Vine — The Mechanism of Participation": chapter-19-draft.md
+
+  - "Part VI — Participation by the Spirit: Church as Covenant–Temple":
+      - "Chapter 20: Pentecost and the Indwelling Glory (Acts 2; 1 Cor 3:16–17; Eph 2:19–22; 1 Pet 2:5, 9)": chapter-20-draft.md
+      - "Chapter 21: Liturgy from Above: Covenant Renewal & Heavenly Participation (Heb 8:5; 12:22–24; Rev 4–5; 7; 8:3–5; 19": chapter-21-draft.md
+      - "Chapter 22: Leviticus 1–9 Fulfilled: From Altar to Table — Christ, Church, Body‑Temple": chapter-22-draft.md
+      - "Chapter 23: Word–Table–Prayer as Throne‑Room Participation (Rev 4:8; 5:8–14; 8:3–4; 19:1–7; 1 Cor 10:16–17)": chapter-23-draft.md
+
+  - Part VII — The Hinge — From Pedagogy to Practice:
+      - "Chapter 24: Israel (Model) · Church (Tutor) · Body (Arena)": chapter-24-draft.md
+
+  - "Part VIII — Church as Tutor: The Liturgy as Heaven–Earth Intersection":
+      - "Chapter 25: The Heavenly Liturgy (Heb 12; Rev 4–5; 8; 19)": chapter-25-draft.md
+      - "Chapter 26: Early Fathers on *Anamnesis* & *Epiclesis* (Didache; Justin; Irenaeus; Chrysostom)": chapter-26-draft.md
+      - "Chapter 27: The Ordo Deep Dive: Word · Creed · Intercessions · Peace · Offertory · Anamnesis/Epiclesis · Communion · Dismissal": chapter-27-draft.md
+
+  - "Part IX — Body as Arena: Daily Sacramental Living":
+      - "Chapter 28: The Daily Liturgical–Covenantal Ordo: Offer → Open Nous → Discern/Love → Do": chapter-28-draft.md
+      - "Chapter 29: Households as Little Covenant–Temples (Deut 6; Eph 5–6)": chapter-29-draft.md
+      - "Chapter 30: Vocation, Economy, and Mercy (Heb 13; Mic 6:8; Matt 25)": chapter-30-draft.md
+      - "Chapter 31: Suffering and the Church’s Carrying Prayer (Ps 22; 2 Cor 1; Rom 8)": chapter-31-draft.md
+
+
+  - "CODA — From Hearing to Seeing (Revelation 21–22)": coda-draft.md
