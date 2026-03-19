@@ -1,0 +1,11 @@
+/* Bold the first navigation item to match Section headers */
+.md-nav__link[href*="chapter-00-introduction-draft"] {
+    font-weight: 700;
+    color: var(--md-typeset-color);
+}
+/* Bold the first navigation item to match Section headers */
+.md-nav__link[href*="coda-draft"] {
+    font-weight: 700;
+    color: var(--md-typeset-color);
+}
+
